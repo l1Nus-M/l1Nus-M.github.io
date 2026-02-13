@@ -15,6 +15,4 @@ I am a **Cybersecurity and Cloud Security** Enthusiast/Student with focus on bui
 ###Current Projects
 **your projects** Lab Building.
 
-
-> Add Markdown syntax content to file `_tabs/about.md`{: .filepath } and it will show up on this page.
-{: .prompt-tip }
+> "Security is not a product, but a process." -Bruce Scheiner
