@@ -10,9 +10,11 @@ image:
 ---
 ## Why I Built This Lab
 To trully understand **Network Security**. I decided to move away from local VMs and Deploy dedicated environment on **GCP Azure & AWS**.
+![Desktop View](/assets/images/AWS-Azure-GCP.jpg)
+_This is the caption that appears under the image_
 
 ## The Architechture
-i am currently running on **Ubuntu 32.04** instance named *lab1*. My goals for this setup include:
+I am currently running on **Ubuntu 32.04** instance named *lab1*. My goals for this setup include:
 
 1: Configuring hhardened *Nginx* Reverse Proxy.
 
