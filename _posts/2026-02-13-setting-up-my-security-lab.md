@@ -3,6 +3,7 @@ title: Seting up my Cloud Securrity Lab on GCP, Azure and AWS.
 date: 2026-02-13 10:07:00 +03:00
 categories: [Cloud, Lab-setup, Azure, AWS, GCP]
 tags: [ubuntu, nginx, gcp, aws, azure]
+pin: true
 image:
   path: /assets/images/AWS-vs-MS-vs-GCP.jpg
   alt: A feature image for awsgcpazure
