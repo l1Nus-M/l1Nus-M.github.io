@@ -3,6 +3,9 @@ title: Seting up my Cloud Securrity Lab on GCP, Azure and AWS.
 date: 2026-02-13 10:07:00 +03:00
 categories: [Cloud, Lab-setup, Azure, AWS, GCP]
 tags: [ubuntu, nginx, gcp, aws, azure]
+image:
+  path: /assets/images/AWS-vs-MS-vs-GCP.jpg
+  alt: A feature image for awsgcpazure
 
 ---
 ## Why I Built This Lab
@@ -21,4 +24,4 @@ i am currently running on **Ubuntu 32.04** instance named *lab1*. My goals for t
 During this setup, I encountered issues with **Bitlocker** encrypted devices on my machine.
 
 ---
-*Stay tuned for my next post*.
+*Stay tuned for my next post*
