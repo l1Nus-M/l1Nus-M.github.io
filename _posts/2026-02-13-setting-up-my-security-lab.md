@@ -5,13 +5,13 @@ categories: [Cloud, Lab-setup, Azure, AWS, GCP]
 tags: [ubuntu, nginx, gcp, aws, azure]
 pin: true
 image:
-  path: /assets/images/AWS-vs-MS-vs-GCP.jpg
+  path: /assets/img/AWS-vs-MS-vs-GCP.jpg
   alt: A feature image for awsgcpazure
 
 ---
 ## Why I Built This Lab
 To trully understand **Network Security**. I decided to move away from local VMs and Deploy dedicated environment on **GCP Azure & AWS**.
-![Desktop View](/assets/images/AWS-Azure-GCP.jpg)
+![Desktop View](/assets/img/AWS-Azure-GCP.jpg)
 _This is the caption that appears under the image_
 
 ## The Architechture
