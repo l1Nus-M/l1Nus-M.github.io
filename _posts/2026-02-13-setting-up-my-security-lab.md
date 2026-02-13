@@ -12,8 +12,7 @@ image:
 ## Why I Built This Lab
 To trully understand **Network Security**. I decided to move away from local VMs and Deploy dedicated environment on **GCP Azure & AWS**.
 ![Desktop View](/assets/img/AWS-Azure-GCP.jpg)
-
-_This is the caption that appears under the image_
+ _This is the caption that appears under the image_
 
 ## The Architechture
 I am currently running on **Ubuntu 32.04** instance named *lab1*. My goals for this setup include:
